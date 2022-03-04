@@ -1,14 +1,14 @@
 # What is this?
 
-It's a [https://www.nytimes.com/games/wordle/index.html](Wordle) solver. You can
-play the []("official") version or maybe an
-[https://www.devangthakkar.com/wordle_archive/](unofficial Wordle archive).
+It's a [Wordle](https://en.wikipedia.org/wiki/Wordle) solver. You can
+play the ["official"](https://www.nytimes.com/games/wordle/index.html) version or maybe an
+[unofficial Wordle archive](https://www.devangthakkar.com/wordle_archive/).
 
 Are there better, more sophisticated solvers? You bet! But this one is mine.
 
 # Requirements
 
-Must have [http://aspell.net/](Aspell) installed and on the path.
+Must have [Aspell](http://aspell.net/) installed and on the path.
 
 How to check? This command should work:
 
